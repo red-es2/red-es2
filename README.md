@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**red-es2/red-es2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mathematics student at St. Xavier’s College, Calcutta, aspiring to become a data scientist.
 
-Here are some ideas to get you started:
+**Top Skills:**  
+- Python  
+- R  
+- Jupyter  
+- Tableau  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A fun fact about me: **I'm invincible!**
+
+<!-- Feel free to add more sections about your projects, interests, or contact info! -->
