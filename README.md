@@ -8,6 +8,6 @@ I'm a mathematics student at St. Xavier’s College, Calcutta, aspiring to becom
 - Jupyter  
 - Tableau  
 
-A fun fact about me: **I'm invincible!**
+A fun fact about me: **I'm the Apex Predator!**
 
 <!-- Feel free to add more sections about your projects, interests, or contact info! -->
