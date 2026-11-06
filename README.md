@@ -6,7 +6,8 @@ I'm a mathematics student at St. Xavier’s College, Calcutta, aspiring to becom
 - Python  
 - R  
 - Jupyter  
-- Tableau  
+- Tableau
+- Valorant  
 
 A fun fact about me: **I'm the Apex Predator!**
 
